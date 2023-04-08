@@ -77955,7 +77955,7 @@ s===$&&A.b()
 return s.cO(0)},
 $S:0}
 A.HW.prototype={
-I(a){var s="chapGPT Music Player",r=null,q=new A.dK(s)
+I(a){var s="chatGPT Music Player",r=null,q=new A.dK(s)
 q=B.f.bB(1e5*(q.gp(q)+8))
 return A.bs(B.mH,new A.dF(B.Dp,A.f7(A.lr(new A.uK(A.a([new A.AF(B.aJ,B.r,s,B.bI,r,new A.aE(q),new A.dK(s))],t.u6),new A.a2C(),!0,r),r,r,B.be,!0,B.Pz,B.m1,r,B.aC),r,400),r),r,r,r,r,r,r,r)}}
 A.a2C.prototype={
